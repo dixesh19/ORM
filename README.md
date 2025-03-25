@@ -17,6 +17,10 @@ Enter the code for admin.py and models.py
 ## STEP 4:
 Execute Django admin and create details for 10 books
 
+# ER DIAGRAM
+![BANK_LOAN 1](https://github.com/user-attachments/assets/a9407eb1-04a6-4c1b-aa6a-f267750d37f2)
+
+
 # PROGRAM
 # OUTPUT
 Include the screenshot of your admin page.
